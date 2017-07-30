@@ -1,3 +1,3 @@
 def draw_1d(n):
-    draw="*"
+    draw="~"
     print(draw*n)
